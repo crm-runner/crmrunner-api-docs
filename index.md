@@ -17,6 +17,14 @@ https://crm.crmrunner.com:4500
 
 ## Authentication
 
+To connect CRM Runner with Zapier, you’ll need to log in with your **CRM Runner username** and password.
+
+- **Username** → This is the same username you use to log into [CRM Runner](https://crmrunner.com/).
+- **Password** → Your account password.
+
+⚠️ Note: It is **not your email address** unless your CRM Runner account username is your email.  
+If you are unsure, check how you normally log into the CRM Runner web application.
+
 CRM Runner uses **JWT-based authentication**.
 
 **Login Endpoint**
