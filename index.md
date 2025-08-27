@@ -140,6 +140,6 @@ curl -X POST https://crm.crmrunner.com:4500/zapier/leads -H "Authorization: Bear
 ---
 
 ## Support
-- **Technical Contact:** abhiranjan.mukherjee@gmail.com  
-- **Marketing Contact:** info@crmrunner.com  
+- **Technical Contact:** geeks5gen@gmail.com  
+- **Marketing Contact:** geeks5gen@gmail.com  
 - **Response Time:** Within 24 hours
